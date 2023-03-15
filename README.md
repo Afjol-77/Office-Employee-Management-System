@@ -9,7 +9,7 @@ ___
 
 Used Technology:
 * [Django 4.1](https://docs.djangoproject.com/en/4.1/)
-* [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+* [Bootstrap 5.0](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
 
 ## How to run this app on your machine? <br>
