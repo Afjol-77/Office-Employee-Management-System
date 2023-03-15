@@ -1,11 +1,38 @@
 # Office-Employee-Management-System
 
-Used Technology: **Bootstrap, Django** 
-
 * A web application to add employees with roles, departments, and other information
 * Update any information or, remove employees
 * Filter employee details, etc.
 
+[Live App](http://employee1.pythonanywhere.com/) <br>
+___
+
+Used Technology:
+* [Django 4.1](https://docs.djangoproject.com/en/4.1/)
+* [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+
+
+## How to run this app on your machine? <br>
+### 1. Extract and open the project, then install the requirements.txt using pip
+```
+pip install -r requirements.txt
+```
+
+### 2. For migrations, type this on your terminal
+```
+python manage.py makemigrations
+python manage.py migrate
+```
+
+### 3. Run the server using the following command
+```
+python manage.py runserver
+```
+
+Your Django project is **LIVE** now on your localhost. <br>
+Open your browser and type **127.0.0.1:8000** on address bar.<br>
+<br>
+___
 
 ## Screenshots
 ### 1. Employee Management Dashboard
